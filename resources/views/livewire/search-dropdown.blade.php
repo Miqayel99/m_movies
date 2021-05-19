@@ -51,7 +51,7 @@
 
                 </ul>
             @else
-                <div class="px-3 py-3">No results for "{{ $search }}"</div>
+                <div class="px-3 py-3">Нет результатов для"{{ $search }}"</div>
             @endif
         </div>
     @endif
